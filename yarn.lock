@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-"@types/node@16.4.2":
-  version "16.4.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.4.2.tgz#0a95d7fd950cb1eaca0ce11031d72e8f680b775a"
-  integrity sha512-vxyhOzFCm+jC/T5KugbVsYy1DbQM0h3NCFUrVbu0+pYa/nr+heeucpqxpa8j4pUmIGLPYzboY9zIdOF0niFAjQ==
-
 renovate-newer-version-dep@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/renovate-newer-version-dep/-/renovate-newer-version-dep-1.0.0.tgz#0208b603e691085c2b9d72fc8b38ed118d396336"
   integrity sha512-E4iedaPzYUQelWNWzmAujtLgBWfVfjXW457E6Wxvqi9n0DAUogXNabXwErvnzY9ox5u0z5RllodfcpTZwGPfvQ==
+
+uuid@8.3.1:
+  version "8.3.1"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.1.tgz#2ba2e6ca000da60fce5a196954ab241131e05a31"
+  integrity sha512-FOmRr+FmWEIG8uhZv6C2bTgEVXsHk08kE7mPlrBbEe+c3r9pjceVPgupIfNIhc4yx55H69OXANrUaSuu9eInKg==

@@ -1,8 +1,6 @@
 {
-  "devDependencies": {
-    "@types/node": "16.4.2"
-  },
   "dependencies": {
+    "uuid": "8.3.1",
     "renovate-newer-version-dep": "1.0.0"
   },
   "scripts": {
