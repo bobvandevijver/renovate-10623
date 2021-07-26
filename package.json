@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "uuid": "8.3.1",
-    "renovate-newer-version-dep": "1.0.0"
+    "renovate-newer-version-dep": "1.0.1"
   },
   "scripts": {
     "run": "node index.js"
