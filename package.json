@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/node": "16.4.2"
+  },
+  "dependencies": {
+    "renovate-newer-version-dep": "1.0.0"
+  },
+  "scripts": {
+    "run": "node index.js"
+  },
+  "type": "module",
+  "license": "MIT"
+}

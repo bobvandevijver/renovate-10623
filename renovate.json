@@ -1,0 +1,12 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": [
+        "config:base",
+        ":automergeDisabled"
+    ],
+    "internalChecksFilter": "strict",
+    "rangeStrategy": "bump",
+    "rebaseWhen": "newer-version",
+    "ignorePaths": ["dep/package.json"]
+  }
+  
